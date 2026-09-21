@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#132820" />
+    <title>Patagonia | Primavera-Verano 2026-27</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <div class="wrap hero-content">
+        <p class="kicker">Patagonia · Primavera - Verano 2026-27</p>
+        <h1>Encontrá el equipo<br />para ir más lejos.</h1>
+        <p class="lead">Explorá el catálogo por artículo, código o color.</p>
+        <label class="search" for="searchInput">
+          <span aria-hidden="true">⌕</span>
+          <input id="searchInput" type="search" autocomplete="off" placeholder="Ej.: 84675, jacket o BLK" autofocus />
+          <kbd>Esc</kbd>
+        </label>
+      </div>
+    </header>
+    <main class="wrap">
+      <section class="filters" aria-label="Filtros de productos">
+        <div id="categories" class="categories" aria-label="Categorías"></div>
+      </section>
+      <section class="summary" aria-live="polite">
+        <p><strong id="resultCount">0</strong> <span id="resultLabel">productos</span></p>
+        <button id="clearSearch" class="clear" type="button" hidden>Limpiar búsqueda</button>
+      </section>
+      <section id="results" class="grid" aria-label="Resultados"></section>
+    </main>
+    <template id="productCard">
+      <article class="card">
+        <div class="photo"><img loading="lazy" /></div>
+        <div class="info">
+          <p class="category"></p>
+          <h2></h2>
+          <div class="meta"><span class="code"></span><span class="color"></span></div>
+          <div class="stock" aria-label="Stock disponible">
+            <p class="stock-total">Stock: <strong class="stock-total-value"></strong></p>
+            <dl class="stock-breakdown">
+              <div><dt>Carrito</dt><dd class="stock-carrito"></dd></div>
+              <div><dt>Local</dt><dd class="stock-local"></dd></div>
+              <div><dt>Bariloche</dt><dd class="stock-bariloche"></dd></div>
+              <div><dt>Río</dt><dd class="stock-rio"></dd></div>
+            </dl>
+            <div class="stock-sizes" hidden>
+              <p>Stock por talle</p>
+              <div class="stock-size-table" role="table">
+                <div class="stock-size-row stock-size-heading" role="row">
+                  <span role="columnheader">Talle</span><span role="columnheader">Carrito</span><span role="columnheader">Local</span><span role="columnheader">Bari</span><span role="columnheader">Río</span>
+                </div>
+                <div class="stock-size-rows"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </article>
+    </template>
+    <script src="app.js"></script>
+  </body>
+</html>
