@@ -6,6 +6,7 @@ const categories = document.querySelector("#categories");
 const template = document.querySelector("#productCard");
 const clear = document.querySelector("#clearSearch");
 const money = new Intl.NumberFormat("es-AR", { style: "currency", currency: "ARS", maximumFractionDigits: 0 });
+const campaignTags = ["Alto Verano", "Tech Tees", "Holidays"];
 let products = [];
 let activeCategory = "Todos";
 const preseasonCodes = new Set([
@@ -78,6 +79,7 @@ function filter() {
     const searchable = `${p.code} ${p.baseCode} ${p.color} ${p.name} ${p.category}`;
     const matchesCategory = activeCategory === "Todos"
       || (activeCategory === "PreSeason" && preseasonCodes.has(p.code))
+      || p.tags?.includes(activeCategory)
       || p.category === activeCategory;
     return (!query || normalize(searchable).includes(query)) && matchesCategory;
   });
@@ -86,7 +88,7 @@ function filter() {
 }
 
 function buildCategories() {
-  const names = ["Todos", "PreSeason", ...new Set(products.map((p) => p.category).sort((a, b) => a.localeCompare(b)))];
+  const names = ["Todos", ...campaignTags, "PreSeason", ...new Set(products.map((p) => p.category).sort((a, b) => a.localeCompare(b)))];
   names.forEach((name) => {
     const button = document.createElement("button");
     button.type = "button";
