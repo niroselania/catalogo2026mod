@@ -17,7 +17,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": [
@@ -71,7 +71,7 @@
     },
     "prices": {
       "withoutVat": 299900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 362879
     },
     "tags": []
@@ -130,7 +130,7 @@
     },
     "prices": {
       "withoutVat": 299900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 362879
     },
     "tags": []
@@ -189,7 +189,7 @@
     },
     "prices": {
       "withoutVat": 339900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 411279
     },
     "tags": []
@@ -248,7 +248,7 @@
     },
     "prices": {
       "withoutVat": 339900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 411279
     },
     "tags": []
@@ -307,7 +307,7 @@
     },
     "prices": {
       "withoutVat": 299900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 362879
     },
     "tags": []
@@ -366,7 +366,7 @@
     },
     "prices": {
       "withoutVat": 299900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 362879
     },
     "tags": []
@@ -425,7 +425,7 @@
     },
     "prices": {
       "withoutVat": 399900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 483879
     },
     "tags": []
@@ -484,7 +484,7 @@
     },
     "prices": {
       "withoutVat": 399900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 483879
     },
     "tags": []
@@ -507,7 +507,7 @@
     },
     "prices": {
       "withoutVat": 259900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 314479
     },
     "tags": [
@@ -532,7 +532,7 @@
     },
     "prices": {
       "withoutVat": 259900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 314479
     },
     "tags": [
@@ -593,7 +593,7 @@
     },
     "prices": {
       "withoutVat": 419900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 508079
     },
     "tags": []
@@ -652,7 +652,7 @@
     },
     "prices": {
       "withoutVat": 419900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 508079
     },
     "tags": []
@@ -711,7 +711,7 @@
     },
     "prices": {
       "withoutVat": 449900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 544379
     },
     "tags": []
@@ -734,7 +734,7 @@
     },
     "prices": {
       "withoutVat": 449900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 544379
     },
     "tags": [
@@ -795,7 +795,7 @@
     },
     "prices": {
       "withoutVat": 499900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 604879
     },
     "tags": []
@@ -854,7 +854,7 @@
     },
     "prices": {
       "withoutVat": 499900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 604879
     },
     "tags": []
@@ -920,7 +920,7 @@
     },
     "prices": {
       "withoutVat": 319900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 387079
     },
     "tags": []
@@ -986,7 +986,7 @@
     },
     "prices": {
       "withoutVat": 319900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 387079
     },
     "tags": []
@@ -1045,7 +1045,7 @@
     },
     "prices": {
       "withoutVat": 269900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 326579
     },
     "tags": []
@@ -1104,7 +1104,7 @@
     },
     "prices": {
       "withoutVat": 269900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 326579
     },
     "tags": []
@@ -1163,7 +1163,7 @@
     },
     "prices": {
       "withoutVat": 239900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 290279
     },
     "tags": []
@@ -1222,7 +1222,7 @@
     },
     "prices": {
       "withoutVat": 239900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 290279
     },
     "tags": []
@@ -1281,7 +1281,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -1340,7 +1340,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -1399,7 +1399,7 @@
     },
     "prices": {
       "withoutVat": 269900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 326579
     },
     "tags": []
@@ -1458,7 +1458,7 @@
     },
     "prices": {
       "withoutVat": 269900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 326579
     },
     "tags": []
@@ -1510,7 +1510,7 @@
     },
     "prices": {
       "withoutVat": 219900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 266079
     },
     "tags": []
@@ -1562,7 +1562,7 @@
     },
     "prices": {
       "withoutVat": 219900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 266079
     },
     "tags": []
@@ -1621,7 +1621,7 @@
     },
     "prices": {
       "withoutVat": 219900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 266079
     },
     "tags": []
@@ -1680,7 +1680,7 @@
     },
     "prices": {
       "withoutVat": 219900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 266079
     },
     "tags": []
@@ -1746,7 +1746,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -1812,7 +1812,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -1878,7 +1878,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -1930,7 +1930,7 @@
     },
     "prices": {
       "withoutVat": 199900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 241879
     },
     "tags": []
@@ -1982,7 +1982,7 @@
     },
     "prices": {
       "withoutVat": 199900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 241879
     },
     "tags": []
@@ -2034,7 +2034,7 @@
     },
     "prices": {
       "withoutVat": 229900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 278179
     },
     "tags": []
@@ -2093,7 +2093,7 @@
     },
     "prices": {
       "withoutVat": 229900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 278179
     },
     "tags": []
@@ -2124,7 +2124,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -2147,7 +2147,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": [
@@ -2180,7 +2180,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -2211,7 +2211,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -2242,7 +2242,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -2273,7 +2273,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -2332,7 +2332,7 @@
     },
     "prices": {
       "withoutVat": 219900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 266079
     },
     "tags": []
@@ -2384,7 +2384,7 @@
     },
     "prices": {
       "withoutVat": 219900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 266079
     },
     "tags": []
@@ -2436,7 +2436,7 @@
     },
     "prices": {
       "withoutVat": 219900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 266079
     },
     "tags": []
@@ -2495,7 +2495,7 @@
     },
     "prices": {
       "withoutVat": 369900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 447579
     },
     "tags": []
@@ -2554,7 +2554,7 @@
     },
     "prices": {
       "withoutVat": 369900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 447579
     },
     "tags": []
@@ -2613,7 +2613,7 @@
     },
     "prices": {
       "withoutVat": 369900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 447579
     },
     "tags": []
@@ -2672,7 +2672,7 @@
     },
     "prices": {
       "withoutVat": 269900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 326579
     },
     "tags": []
@@ -2724,7 +2724,7 @@
     },
     "prices": {
       "withoutVat": 299900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 362879
     },
     "tags": []
@@ -2776,7 +2776,7 @@
     },
     "prices": {
       "withoutVat": 299900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 362879
     },
     "tags": []
@@ -2835,7 +2835,7 @@
     },
     "prices": {
       "withoutVat": 199900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 241879
     },
     "tags": []
@@ -2894,7 +2894,7 @@
     },
     "prices": {
       "withoutVat": 199900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 241879
     },
     "tags": []
@@ -2953,7 +2953,7 @@
     },
     "prices": {
       "withoutVat": 219900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 266079
     },
     "tags": []
@@ -3012,7 +3012,7 @@
     },
     "prices": {
       "withoutVat": 219900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 266079
     },
     "tags": []
@@ -3035,7 +3035,7 @@
     },
     "prices": {
       "withoutVat": 199900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 241879
     },
     "tags": [
@@ -3096,7 +3096,7 @@
     },
     "prices": {
       "withoutVat": 199900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 241879
     },
     "tags": []
@@ -3155,7 +3155,7 @@
     },
     "prices": {
       "withoutVat": 219900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 266079
     },
     "tags": []
@@ -3214,7 +3214,7 @@
     },
     "prices": {
       "withoutVat": 319900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 387079
     },
     "tags": []
@@ -3273,7 +3273,7 @@
     },
     "prices": {
       "withoutVat": 319900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 387079
     },
     "tags": []
@@ -3332,7 +3332,7 @@
     },
     "prices": {
       "withoutVat": 299900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 362879
     },
     "tags": []
@@ -3391,7 +3391,7 @@
     },
     "prices": {
       "withoutVat": 299900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 362879
     },
     "tags": []
@@ -3450,7 +3450,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -3473,7 +3473,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": [
@@ -3527,7 +3527,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -3579,7 +3579,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -3638,7 +3638,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -3697,7 +3697,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -3749,7 +3749,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -3801,7 +3801,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -3853,7 +3853,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -3905,7 +3905,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -3964,7 +3964,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -3987,7 +3987,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": [
@@ -4012,7 +4012,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": [
@@ -4066,7 +4066,7 @@
     },
     "prices": {
       "withoutVat": 299900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 362879
     },
     "tags": []
@@ -4118,7 +4118,7 @@
     },
     "prices": {
       "withoutVat": 299900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 362879
     },
     "tags": []
@@ -4177,7 +4177,7 @@
     },
     "prices": {
       "withoutVat": 299900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 362879
     },
     "tags": []
@@ -4200,7 +4200,7 @@
     },
     "prices": {
       "withoutVat": 299900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 362879
     },
     "tags": [
@@ -4254,7 +4254,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": [
@@ -4308,7 +4308,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": [
@@ -4369,7 +4369,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": [
@@ -4430,7 +4430,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": [
@@ -4484,7 +4484,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": [
@@ -4538,7 +4538,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": [
@@ -4599,7 +4599,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": [
@@ -4660,7 +4660,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": [
@@ -4714,7 +4714,7 @@
     },
     "prices": {
       "withoutVat": 209900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 253979
     },
     "tags": []
@@ -4766,7 +4766,7 @@
     },
     "prices": {
       "withoutVat": 209900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 253979
     },
     "tags": []
@@ -4825,7 +4825,7 @@
     },
     "prices": {
       "withoutVat": 209900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 253979
     },
     "tags": []
@@ -4884,7 +4884,7 @@
     },
     "prices": {
       "withoutVat": 209900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 253979
     },
     "tags": []
@@ -4936,7 +4936,7 @@
     },
     "prices": {
       "withoutVat": 169900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 205579
     },
     "tags": []
@@ -4995,7 +4995,7 @@
     },
     "prices": {
       "withoutVat": 169900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 205579
     },
     "tags": []
@@ -5047,7 +5047,7 @@
     },
     "prices": {
       "withoutVat": 179900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 217679
     },
     "tags": []
@@ -5099,7 +5099,7 @@
     },
     "prices": {
       "withoutVat": 179900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 217679
     },
     "tags": []
@@ -5158,7 +5158,7 @@
     },
     "prices": {
       "withoutVat": 179900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 217679
     },
     "tags": []
@@ -5181,7 +5181,7 @@
     },
     "prices": {
       "withoutVat": 179900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 217679
     },
     "tags": [
@@ -5242,7 +5242,7 @@
     },
     "prices": {
       "withoutVat": 229900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 278179
     },
     "tags": []
@@ -5301,7 +5301,7 @@
     },
     "prices": {
       "withoutVat": 219900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 266079
     },
     "tags": []
@@ -5360,7 +5360,7 @@
     },
     "prices": {
       "withoutVat": 299900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 362879
     },
     "tags": []
@@ -5383,7 +5383,7 @@
     },
     "prices": {
       "withoutVat": 299900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 362879
     },
     "tags": [
@@ -5444,7 +5444,7 @@
     },
     "prices": {
       "withoutVat": 319900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 387079
     },
     "tags": []
@@ -5503,7 +5503,7 @@
     },
     "prices": {
       "withoutVat": 319900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 387079
     },
     "tags": []
@@ -5562,7 +5562,7 @@
     },
     "prices": {
       "withoutVat": 299900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 362879
     },
     "tags": []
@@ -5621,7 +5621,7 @@
     },
     "prices": {
       "withoutVat": 299900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 362879
     },
     "tags": []
@@ -5680,7 +5680,7 @@
     },
     "prices": {
       "withoutVat": 299900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 362879
     },
     "tags": []
@@ -5739,7 +5739,7 @@
     },
     "prices": {
       "withoutVat": 299900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 362879
     },
     "tags": []
@@ -5798,7 +5798,7 @@
     },
     "prices": {
       "withoutVat": 329900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 399179
     },
     "tags": []
@@ -5857,7 +5857,7 @@
     },
     "prices": {
       "withoutVat": 329900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 399179
     },
     "tags": []
@@ -5916,7 +5916,7 @@
     },
     "prices": {
       "withoutVat": 329900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 399179
     },
     "tags": []
@@ -5975,7 +5975,7 @@
     },
     "prices": {
       "withoutVat": 329900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 399179
     },
     "tags": []
@@ -6034,7 +6034,7 @@
     },
     "prices": {
       "withoutVat": 329900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 399179
     },
     "tags": []
@@ -6093,7 +6093,7 @@
     },
     "prices": {
       "withoutVat": 329900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 399179
     },
     "tags": []
@@ -6152,7 +6152,7 @@
     },
     "prices": {
       "withoutVat": 329900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 399179
     },
     "tags": []
@@ -6211,7 +6211,7 @@
     },
     "prices": {
       "withoutVat": 299900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 362879
     },
     "tags": []
@@ -6270,7 +6270,7 @@
     },
     "prices": {
       "withoutVat": 299900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 362879
     },
     "tags": []
@@ -6293,7 +6293,7 @@
     },
     "prices": {
       "withoutVat": 299900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 362879
     },
     "tags": [
@@ -6347,7 +6347,7 @@
     },
     "prices": {
       "withoutVat": 239900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 290279
     },
     "tags": []
@@ -6406,7 +6406,7 @@
     },
     "prices": {
       "withoutVat": 239900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 290279
     },
     "tags": []
@@ -6458,7 +6458,7 @@
     },
     "prices": {
       "withoutVat": 239900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 290279
     },
     "tags": []
@@ -6517,7 +6517,7 @@
     },
     "prices": {
       "withoutVat": 239900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 290279
     },
     "tags": []
@@ -6576,7 +6576,7 @@
     },
     "prices": {
       "withoutVat": 219900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 266079
     },
     "tags": []
@@ -6635,7 +6635,7 @@
     },
     "prices": {
       "withoutVat": 219900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 266079
     },
     "tags": []
@@ -6694,7 +6694,7 @@
     },
     "prices": {
       "withoutVat": 169900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 205579
     },
     "tags": []
@@ -6753,7 +6753,7 @@
     },
     "prices": {
       "withoutVat": 169900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 205579
     },
     "tags": []
@@ -6812,7 +6812,7 @@
     },
     "prices": {
       "withoutVat": 169900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 205579
     },
     "tags": []
@@ -6871,7 +6871,7 @@
     },
     "prices": {
       "withoutVat": 289900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 350779
     },
     "tags": []
@@ -6930,7 +6930,7 @@
     },
     "prices": {
       "withoutVat": 289900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 350779
     },
     "tags": []
@@ -6989,7 +6989,7 @@
     },
     "prices": {
       "withoutVat": 169900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 205579
     },
     "tags": []
@@ -7048,7 +7048,7 @@
     },
     "prices": {
       "withoutVat": 169900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 205579
     },
     "tags": []
@@ -7071,7 +7071,7 @@
     },
     "prices": {
       "withoutVat": 169900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 205579
     },
     "tags": [
@@ -7125,7 +7125,7 @@
     },
     "prices": {
       "withoutVat": 519900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 629079
     },
     "tags": []
@@ -7184,7 +7184,7 @@
     },
     "prices": {
       "withoutVat": 299900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 362879
     },
     "tags": []
@@ -7243,7 +7243,7 @@
     },
     "prices": {
       "withoutVat": 299900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 362879
     },
     "tags": []
@@ -7302,7 +7302,7 @@
     },
     "prices": {
       "withoutVat": 399900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 483879
     },
     "tags": []
@@ -7325,7 +7325,7 @@
     },
     "prices": {
       "withoutVat": 0,
-      "vatPercent": 0,
+      "vatPercent": 21,
       "withVat": 0
     },
     "tags": []
@@ -7384,7 +7384,7 @@
     },
     "prices": {
       "withoutVat": 399900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 483879
     },
     "tags": []
@@ -7443,7 +7443,7 @@
     },
     "prices": {
       "withoutVat": 409900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 495979
     },
     "tags": []
@@ -7502,7 +7502,7 @@
     },
     "prices": {
       "withoutVat": 409900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 495979
     },
     "tags": []
@@ -7554,7 +7554,7 @@
     },
     "prices": {
       "withoutVat": 499900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 604879
     },
     "tags": []
@@ -7613,7 +7613,7 @@
     },
     "prices": {
       "withoutVat": 499900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 604879
     },
     "tags": []
@@ -7651,7 +7651,7 @@
     },
     "prices": {
       "withoutVat": 119900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 145079
     },
     "tags": []
@@ -7689,7 +7689,7 @@
     },
     "prices": {
       "withoutVat": 119900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 145079
     },
     "tags": []
@@ -7712,7 +7712,7 @@
     },
     "prices": {
       "withoutVat": 109900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 132979
     },
     "tags": [
@@ -7752,7 +7752,7 @@
     },
     "prices": {
       "withoutVat": 109900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 132979
     },
     "tags": []
@@ -7790,7 +7790,7 @@
     },
     "prices": {
       "withoutVat": 109900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 132979
     },
     "tags": []
@@ -7849,7 +7849,7 @@
     },
     "prices": {
       "withoutVat": 139900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 169279
     },
     "tags": []
@@ -7872,7 +7872,7 @@
     },
     "prices": {
       "withoutVat": 139900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 169279
     },
     "tags": [
@@ -7933,7 +7933,7 @@
     },
     "prices": {
       "withoutVat": 129900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 157179
     },
     "tags": []
@@ -7992,7 +7992,7 @@
     },
     "prices": {
       "withoutVat": 129900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 157179
     },
     "tags": []
@@ -8023,7 +8023,7 @@
     },
     "prices": {
       "withoutVat": 89900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 108779
     },
     "tags": []
@@ -8054,7 +8054,7 @@
     },
     "prices": {
       "withoutVat": 89900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 108779
     },
     "tags": []
@@ -8085,7 +8085,7 @@
     },
     "prices": {
       "withoutVat": 89900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 108779
     },
     "tags": []
@@ -8108,7 +8108,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": [
@@ -8133,7 +8133,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": [
@@ -8166,7 +8166,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -8197,7 +8197,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -8228,7 +8228,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -8259,7 +8259,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -8290,7 +8290,7 @@
     },
     "prices": {
       "withoutVat": 89900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 108779
     },
     "tags": []
@@ -8321,7 +8321,7 @@
     },
     "prices": {
       "withoutVat": 89900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 108779
     },
     "tags": []
@@ -8359,7 +8359,7 @@
     },
     "prices": {
       "withoutVat": 109900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 132979
     },
     "tags": []
@@ -8397,7 +8397,7 @@
     },
     "prices": {
       "withoutVat": 109900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 132979
     },
     "tags": []
@@ -8420,7 +8420,7 @@
     },
     "prices": {
       "withoutVat": 109900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 132979
     },
     "tags": [
@@ -8445,7 +8445,7 @@
     },
     "prices": {
       "withoutVat": 109900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 132979
     },
     "tags": [
@@ -8506,7 +8506,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": []
@@ -8529,7 +8529,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": [
@@ -8554,7 +8554,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": [
@@ -8615,7 +8615,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": []
@@ -8638,7 +8638,7 @@
     },
     "prices": {
       "withoutVat": 0,
-      "vatPercent": 0,
+      "vatPercent": 21,
       "withVat": 0
     },
     "tags": []
@@ -8697,7 +8697,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": []
@@ -8756,7 +8756,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": []
@@ -8815,7 +8815,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": []
@@ -8867,7 +8867,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": []
@@ -8919,7 +8919,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": []
@@ -8942,7 +8942,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": [
@@ -9003,7 +9003,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": []
@@ -9062,7 +9062,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": []
@@ -9085,7 +9085,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": [
@@ -9110,7 +9110,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": [
@@ -9135,7 +9135,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": [
@@ -9160,7 +9160,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": [
@@ -9185,7 +9185,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": [
@@ -9210,7 +9210,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": [
@@ -9235,7 +9235,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": [
@@ -9260,7 +9260,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": [
@@ -9285,7 +9285,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": [
@@ -9310,7 +9310,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": [
@@ -9335,7 +9335,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": [
@@ -9396,7 +9396,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": []
@@ -9455,7 +9455,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": []
@@ -9478,7 +9478,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": [
@@ -9503,7 +9503,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": [
@@ -9557,7 +9557,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": []
@@ -9616,7 +9616,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": []
@@ -9668,7 +9668,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": []
@@ -9727,7 +9727,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": []
@@ -9779,7 +9779,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": []
@@ -9831,7 +9831,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": []
@@ -9890,7 +9890,7 @@
     },
     "prices": {
       "withoutVat": 109900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 132979
     },
     "tags": []
@@ -9949,7 +9949,7 @@
     },
     "prices": {
       "withoutVat": 109900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 132979
     },
     "tags": []
@@ -10008,7 +10008,7 @@
     },
     "prices": {
       "withoutVat": 109900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 132979
     },
     "tags": []
@@ -10031,7 +10031,7 @@
     },
     "prices": {
       "withoutVat": 129900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 157179
     },
     "tags": [
@@ -10056,7 +10056,7 @@
     },
     "prices": {
       "withoutVat": 129900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 157179
     },
     "tags": [
@@ -10110,7 +10110,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": []
@@ -10169,7 +10169,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": []
@@ -10221,7 +10221,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": []
@@ -10244,7 +10244,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": [
@@ -10277,7 +10277,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -10308,7 +10308,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -10339,7 +10339,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -10362,7 +10362,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": [
@@ -10395,7 +10395,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -10426,7 +10426,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -10457,7 +10457,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -10488,7 +10488,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -10519,7 +10519,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -10550,7 +10550,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -10581,7 +10581,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -10612,7 +10612,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -10643,7 +10643,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -10674,7 +10674,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -10705,7 +10705,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -10736,7 +10736,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -10795,7 +10795,7 @@
     },
     "prices": {
       "withoutVat": 189900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 229779
     },
     "tags": []
@@ -10861,7 +10861,7 @@
     },
     "prices": {
       "withoutVat": 189900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 229779
     },
     "tags": []
@@ -10920,7 +10920,7 @@
     },
     "prices": {
       "withoutVat": 189900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 229779
     },
     "tags": []
@@ -10986,7 +10986,7 @@
     },
     "prices": {
       "withoutVat": 189900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 229779
     },
     "tags": []
@@ -11038,7 +11038,7 @@
     },
     "prices": {
       "withoutVat": 219900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 266079
     },
     "tags": []
@@ -11097,7 +11097,7 @@
     },
     "prices": {
       "withoutVat": 219900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 266079
     },
     "tags": []
@@ -11120,7 +11120,7 @@
     },
     "prices": {
       "withoutVat": 219900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 266079
     },
     "tags": [
@@ -11174,7 +11174,7 @@
     },
     "prices": {
       "withoutVat": 219900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 266079
     },
     "tags": []
@@ -11226,7 +11226,7 @@
     },
     "prices": {
       "withoutVat": 219900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 266079
     },
     "tags": []
@@ -11249,7 +11249,7 @@
     },
     "prices": {
       "withoutVat": 0,
-      "vatPercent": 0,
+      "vatPercent": 21,
       "withVat": 0
     },
     "tags": []
@@ -11308,7 +11308,7 @@
     },
     "prices": {
       "withoutVat": 219900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 266079
     },
     "tags": []
@@ -11360,7 +11360,7 @@
     },
     "prices": {
       "withoutVat": 219900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 266079
     },
     "tags": []
@@ -11412,7 +11412,7 @@
     },
     "prices": {
       "withoutVat": 219900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 266079
     },
     "tags": []
@@ -11471,7 +11471,7 @@
     },
     "prices": {
       "withoutVat": 159900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 193479
     },
     "tags": []
@@ -11523,7 +11523,7 @@
     },
     "prices": {
       "withoutVat": 159900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 193479
     },
     "tags": []
@@ -11582,7 +11582,7 @@
     },
     "prices": {
       "withoutVat": 219900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 266079
     },
     "tags": []
@@ -11641,7 +11641,7 @@
     },
     "prices": {
       "withoutVat": 219900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 266079
     },
     "tags": []
@@ -11693,7 +11693,7 @@
     },
     "prices": {
       "withoutVat": 419900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 508079
     },
     "tags": []
@@ -11745,7 +11745,7 @@
     },
     "prices": {
       "withoutVat": 419900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 508079
     },
     "tags": []
@@ -11804,7 +11804,7 @@
     },
     "prices": {
       "withoutVat": 419900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 508079
     },
     "tags": []
@@ -11863,7 +11863,7 @@
     },
     "prices": {
       "withoutVat": 419900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 508079
     },
     "tags": []
@@ -11922,7 +11922,7 @@
     },
     "prices": {
       "withoutVat": 299900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 362879
     },
     "tags": []
@@ -11981,7 +11981,7 @@
     },
     "prices": {
       "withoutVat": 299900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 362879
     },
     "tags": []
@@ -12040,7 +12040,7 @@
     },
     "prices": {
       "withoutVat": 299900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 362879
     },
     "tags": []
@@ -12099,7 +12099,7 @@
     },
     "prices": {
       "withoutVat": 299900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 362879
     },
     "tags": []
@@ -12158,7 +12158,7 @@
     },
     "prices": {
       "withoutVat": 329900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 399179
     },
     "tags": []
@@ -12181,7 +12181,7 @@
     },
     "prices": {
       "withoutVat": 329900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 399179
     },
     "tags": [
@@ -12242,7 +12242,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -12301,7 +12301,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -12360,7 +12360,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -12419,7 +12419,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -12478,7 +12478,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -12537,7 +12537,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -12596,7 +12596,7 @@
     },
     "prices": {
       "withoutVat": 409900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 495979
     },
     "tags": []
@@ -12655,7 +12655,7 @@
     },
     "prices": {
       "withoutVat": 409900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 495979
     },
     "tags": []
@@ -12714,7 +12714,7 @@
     },
     "prices": {
       "withoutVat": 409900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 495979
     },
     "tags": []
@@ -12773,7 +12773,7 @@
     },
     "prices": {
       "withoutVat": 409900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 495979
     },
     "tags": []
@@ -12796,7 +12796,7 @@
     },
     "prices": {
       "withoutVat": 409900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 495979
     },
     "tags": [
@@ -12857,7 +12857,7 @@
     },
     "prices": {
       "withoutVat": 409900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 495979
     },
     "tags": []
@@ -12916,7 +12916,7 @@
     },
     "prices": {
       "withoutVat": 319900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 387079
     },
     "tags": []
@@ -12975,7 +12975,7 @@
     },
     "prices": {
       "withoutVat": 319900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 387079
     },
     "tags": []
@@ -13027,7 +13027,7 @@
     },
     "prices": {
       "withoutVat": 279900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 338679
     },
     "tags": []
@@ -13086,7 +13086,7 @@
     },
     "prices": {
       "withoutVat": 289900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 350779
     },
     "tags": []
@@ -13145,7 +13145,7 @@
     },
     "prices": {
       "withoutVat": 299900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 362879
     },
     "tags": []
@@ -13204,7 +13204,7 @@
     },
     "prices": {
       "withoutVat": 299900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 362879
     },
     "tags": []
@@ -13263,7 +13263,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -13315,7 +13315,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -13338,7 +13338,7 @@
     },
     "prices": {
       "withoutVat": 199900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 241879
     },
     "tags": [
@@ -13363,7 +13363,7 @@
     },
     "prices": {
       "withoutVat": 199900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 241879
     },
     "tags": [
@@ -13424,7 +13424,7 @@
     },
     "prices": {
       "withoutVat": 109900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 132979
     },
     "tags": []
@@ -13483,7 +13483,7 @@
     },
     "prices": {
       "withoutVat": 109900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 132979
     },
     "tags": []
@@ -13542,7 +13542,7 @@
     },
     "prices": {
       "withoutVat": 219900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 266079
     },
     "tags": []
@@ -13601,7 +13601,7 @@
     },
     "prices": {
       "withoutVat": 219900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 266079
     },
     "tags": []
@@ -13660,7 +13660,7 @@
     },
     "prices": {
       "withoutVat": 189900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 229779
     },
     "tags": []
@@ -13719,7 +13719,7 @@
     },
     "prices": {
       "withoutVat": 189900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 229779
     },
     "tags": []
@@ -13771,7 +13771,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -13830,7 +13830,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -13889,7 +13889,7 @@
     },
     "prices": {
       "withoutVat": 129900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 157179
     },
     "tags": []
@@ -13948,7 +13948,7 @@
     },
     "prices": {
       "withoutVat": 129900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 157179
     },
     "tags": []
@@ -14007,7 +14007,7 @@
     },
     "prices": {
       "withoutVat": 129900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 157179
     },
     "tags": []
@@ -14045,7 +14045,7 @@
     },
     "prices": {
       "withoutVat": 109900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 132979
     },
     "tags": []
@@ -14097,7 +14097,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": []
@@ -14120,7 +14120,7 @@
     },
     "prices": {
       "withoutVat": 139900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 169279
     },
     "tags": [
@@ -14145,7 +14145,7 @@
     },
     "prices": {
       "withoutVat": 139900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 169279
     },
     "tags": [
@@ -14206,7 +14206,7 @@
     },
     "prices": {
       "withoutVat": 179900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 217679
     },
     "tags": []
@@ -14258,7 +14258,7 @@
     },
     "prices": {
       "withoutVat": 179900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 217679
     },
     "tags": []
@@ -14317,7 +14317,7 @@
     },
     "prices": {
       "withoutVat": 159900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 193479
     },
     "tags": []
@@ -14376,7 +14376,7 @@
     },
     "prices": {
       "withoutVat": 159900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 193479
     },
     "tags": []
@@ -14435,7 +14435,7 @@
     },
     "prices": {
       "withoutVat": 159900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 193479
     },
     "tags": []
@@ -14494,7 +14494,7 @@
     },
     "prices": {
       "withoutVat": 159900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 193479
     },
     "tags": []
@@ -14546,7 +14546,7 @@
     },
     "prices": {
       "withoutVat": 149900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 181379
     },
     "tags": [
@@ -14600,7 +14600,7 @@
     },
     "prices": {
       "withoutVat": 149900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 181379
     },
     "tags": [
@@ -14625,7 +14625,7 @@
     },
     "prices": {
       "withoutVat": 149900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 181379
     },
     "tags": [
@@ -14687,7 +14687,7 @@
     },
     "prices": {
       "withoutVat": 149900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 181379
     },
     "tags": [
@@ -14741,7 +14741,7 @@
     },
     "prices": {
       "withoutVat": 119900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 145079
     },
     "tags": [
@@ -14795,7 +14795,7 @@
     },
     "prices": {
       "withoutVat": 119900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 145079
     },
     "tags": [
@@ -14856,7 +14856,7 @@
     },
     "prices": {
       "withoutVat": 119900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 145079
     },
     "tags": [
@@ -14917,7 +14917,7 @@
     },
     "prices": {
       "withoutVat": 119900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 145079
     },
     "tags": [
@@ -14942,7 +14942,7 @@
     },
     "prices": {
       "withoutVat": 109900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 132979
     },
     "tags": [
@@ -14968,7 +14968,7 @@
     },
     "prices": {
       "withoutVat": 109900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 132979
     },
     "tags": [
@@ -14994,7 +14994,7 @@
     },
     "prices": {
       "withoutVat": 109900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 132979
     },
     "tags": [
@@ -15020,7 +15020,7 @@
     },
     "prices": {
       "withoutVat": 109900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 132979
     },
     "tags": [
@@ -15075,7 +15075,7 @@
     },
     "prices": {
       "withoutVat": 149900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 181379
     },
     "tags": [
@@ -15129,7 +15129,7 @@
     },
     "prices": {
       "withoutVat": 149900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 181379
     },
     "tags": [
@@ -15183,7 +15183,7 @@
     },
     "prices": {
       "withoutVat": 199900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 241879
     },
     "tags": [
@@ -15237,7 +15237,7 @@
     },
     "prices": {
       "withoutVat": 199900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 241879
     },
     "tags": [
@@ -15298,7 +15298,7 @@
     },
     "prices": {
       "withoutVat": 199900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 241879
     },
     "tags": [
@@ -15359,7 +15359,7 @@
     },
     "prices": {
       "withoutVat": 199900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 241879
     },
     "tags": [
@@ -15413,7 +15413,7 @@
     },
     "prices": {
       "withoutVat": 189900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 229779
     },
     "tags": []
@@ -15465,7 +15465,7 @@
     },
     "prices": {
       "withoutVat": 189900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 229779
     },
     "tags": []
@@ -15524,7 +15524,7 @@
     },
     "prices": {
       "withoutVat": 189900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 229779
     },
     "tags": []
@@ -15583,7 +15583,7 @@
     },
     "prices": {
       "withoutVat": 189900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 229779
     },
     "tags": []
@@ -15642,7 +15642,7 @@
     },
     "prices": {
       "withoutVat": 199900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 241879
     },
     "tags": []
@@ -15701,7 +15701,7 @@
     },
     "prices": {
       "withoutVat": 199900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 241879
     },
     "tags": []
@@ -15753,7 +15753,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": [
@@ -15778,7 +15778,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": [
@@ -15833,7 +15833,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": [
@@ -15894,7 +15894,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": [
@@ -15955,7 +15955,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": [
@@ -16016,7 +16016,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": [
@@ -16077,7 +16077,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": [
@@ -16131,7 +16131,7 @@
     },
     "prices": {
       "withoutVat": 129900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 157179
     },
     "tags": []
@@ -16154,7 +16154,7 @@
     },
     "prices": {
       "withoutVat": 129900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 157179
     },
     "tags": []
@@ -16206,7 +16206,7 @@
     },
     "prices": {
       "withoutVat": 159900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 193479
     },
     "tags": []
@@ -16258,7 +16258,7 @@
     },
     "prices": {
       "withoutVat": 159900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 193479
     },
     "tags": []
@@ -16310,7 +16310,7 @@
     },
     "prices": {
       "withoutVat": 119900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 145079
     },
     "tags": []
@@ -16362,7 +16362,7 @@
     },
     "prices": {
       "withoutVat": 119900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 145079
     },
     "tags": []
@@ -16414,7 +16414,7 @@
     },
     "prices": {
       "withoutVat": 119900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 145079
     },
     "tags": []
@@ -16466,7 +16466,7 @@
     },
     "prices": {
       "withoutVat": 119900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 145079
     },
     "tags": []
@@ -16497,7 +16497,7 @@
     },
     "prices": {
       "withoutVat": 279900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 338679
     },
     "tags": []
@@ -16528,7 +16528,7 @@
     },
     "prices": {
       "withoutVat": 279900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 338679
     },
     "tags": []
@@ -16559,7 +16559,7 @@
     },
     "prices": {
       "withoutVat": 279900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 338679
     },
     "tags": []
@@ -16590,7 +16590,7 @@
     },
     "prices": {
       "withoutVat": 139900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 169279
     },
     "tags": []
@@ -16613,7 +16613,7 @@
     },
     "prices": {
       "withoutVat": 139900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 169279
     },
     "tags": [
@@ -16646,7 +16646,7 @@
     },
     "prices": {
       "withoutVat": 129900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 157179
     },
     "tags": []
@@ -16669,7 +16669,7 @@
     },
     "prices": {
       "withoutVat": 129900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 157179
     },
     "tags": [
@@ -16702,7 +16702,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -16733,7 +16733,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -16764,7 +16764,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -16795,7 +16795,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -16826,7 +16826,7 @@
     },
     "prices": {
       "withoutVat": 279900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 338679
     },
     "tags": []
@@ -16857,7 +16857,7 @@
     },
     "prices": {
       "withoutVat": 279900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 338679
     },
     "tags": []
@@ -16888,7 +16888,7 @@
     },
     "prices": {
       "withoutVat": 279900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 338679
     },
     "tags": []
@@ -16933,7 +16933,7 @@
     },
     "prices": {
       "withoutVat": 399900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 483879
     },
     "tags": []
@@ -16978,7 +16978,7 @@
     },
     "prices": {
       "withoutVat": 449900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 544379
     },
     "tags": []
@@ -17009,7 +17009,7 @@
     },
     "prices": {
       "withoutVat": 199900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 241879
     },
     "tags": []
@@ -17032,7 +17032,7 @@
     },
     "prices": {
       "withoutVat": 199900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 241879
     },
     "tags": [
@@ -17065,7 +17065,7 @@
     },
     "prices": {
       "withoutVat": 139900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 169279
     },
     "tags": []
@@ -17096,7 +17096,7 @@
     },
     "prices": {
       "withoutVat": 139900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 169279
     },
     "tags": []
@@ -17127,7 +17127,7 @@
     },
     "prices": {
       "withoutVat": 259900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 314479
     },
     "tags": []
@@ -17158,7 +17158,7 @@
     },
     "prices": {
       "withoutVat": 259900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 314479
     },
     "tags": []
@@ -17189,7 +17189,7 @@
     },
     "prices": {
       "withoutVat": 129900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 157179
     },
     "tags": []
@@ -17220,7 +17220,7 @@
     },
     "prices": {
       "withoutVat": 129900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 157179
     },
     "tags": []
@@ -17265,7 +17265,7 @@
     },
     "prices": {
       "withoutVat": 399900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 483879
     },
     "tags": []
@@ -17296,7 +17296,7 @@
     },
     "prices": {
       "withoutVat": 199900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 241879
     },
     "tags": []
@@ -17319,7 +17319,7 @@
     },
     "prices": {
       "withoutVat": 199900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 241879
     },
     "tags": [
@@ -17352,7 +17352,7 @@
     },
     "prices": {
       "withoutVat": 199900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 241879
     },
     "tags": []
@@ -17383,7 +17383,7 @@
     },
     "prices": {
       "withoutVat": 109900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 132979
     },
     "tags": []
@@ -17414,7 +17414,7 @@
     },
     "prices": {
       "withoutVat": 109900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 132979
     },
     "tags": []
@@ -17445,7 +17445,7 @@
     },
     "prices": {
       "withoutVat": 109900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 132979
     },
     "tags": []
@@ -17490,7 +17490,7 @@
     },
     "prices": {
       "withoutVat": 349900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 423379
     },
     "tags": []
@@ -17535,7 +17535,7 @@
     },
     "prices": {
       "withoutVat": 349900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 423379
     },
     "tags": []
@@ -17580,7 +17580,7 @@
     },
     "prices": {
       "withoutVat": 379900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 459679
     },
     "tags": []
@@ -17625,7 +17625,7 @@
     },
     "prices": {
       "withoutVat": 379900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 459679
     },
     "tags": []
@@ -17656,7 +17656,7 @@
     },
     "prices": {
       "withoutVat": 129900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 157179
     },
     "tags": []
@@ -17687,7 +17687,7 @@
     },
     "prices": {
       "withoutVat": 129900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 157179
     },
     "tags": []
@@ -17710,7 +17710,7 @@
     },
     "prices": {
       "withoutVat": 199900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 241879
     },
     "tags": [
@@ -17735,7 +17735,7 @@
     },
     "prices": {
       "withoutVat": 199900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 241879
     },
     "tags": [
@@ -17768,7 +17768,7 @@
     },
     "prices": {
       "withoutVat": 799900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 967879
     },
     "tags": []
@@ -17799,7 +17799,7 @@
     },
     "prices": {
       "withoutVat": 799900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 967879
     },
     "tags": []
@@ -17830,7 +17830,7 @@
     },
     "prices": {
       "withoutVat": 259900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 314479
     },
     "tags": []
@@ -17861,7 +17861,7 @@
     },
     "prices": {
       "withoutVat": 259900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 314479
     },
     "tags": []
@@ -17892,7 +17892,7 @@
     },
     "prices": {
       "withoutVat": 319900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 387079
     },
     "tags": []
@@ -17915,7 +17915,7 @@
     },
     "prices": {
       "withoutVat": 319900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 387079
     },
     "tags": [
@@ -17948,7 +17948,7 @@
     },
     "prices": {
       "withoutVat": 319900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 387079
     },
     "tags": []
@@ -17979,7 +17979,7 @@
     },
     "prices": {
       "withoutVat": 369900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 447579
     },
     "tags": []
@@ -18010,7 +18010,7 @@
     },
     "prices": {
       "withoutVat": 369900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 447579
     },
     "tags": []
@@ -18041,7 +18041,7 @@
     },
     "prices": {
       "withoutVat": 449900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 544379
     },
     "tags": []
@@ -18072,7 +18072,7 @@
     },
     "prices": {
       "withoutVat": 449900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 544379
     },
     "tags": []
@@ -18095,7 +18095,7 @@
     },
     "prices": {
       "withoutVat": 339900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 411279
     },
     "tags": [
@@ -18128,7 +18128,7 @@
     },
     "prices": {
       "withoutVat": 339900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 411279
     },
     "tags": []
@@ -18159,7 +18159,7 @@
     },
     "prices": {
       "withoutVat": 339900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 411279
     },
     "tags": []
@@ -18190,7 +18190,7 @@
     },
     "prices": {
       "withoutVat": 339900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 411279
     },
     "tags": []
@@ -18221,7 +18221,7 @@
     },
     "prices": {
       "withoutVat": 369900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 447579
     },
     "tags": []
@@ -18252,7 +18252,7 @@
     },
     "prices": {
       "withoutVat": 369900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 447579
     },
     "tags": []
@@ -18283,7 +18283,7 @@
     },
     "prices": {
       "withoutVat": 369900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 447579
     },
     "tags": []
@@ -18314,7 +18314,7 @@
     },
     "prices": {
       "withoutVat": 369900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 447579
     },
     "tags": []
@@ -18337,7 +18337,7 @@
     },
     "prices": {
       "withoutVat": 419900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 508079
     },
     "tags": [
@@ -18370,7 +18370,7 @@
     },
     "prices": {
       "withoutVat": 419900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 508079
     },
     "tags": []
@@ -18401,7 +18401,7 @@
     },
     "prices": {
       "withoutVat": 419900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 508079
     },
     "tags": []
@@ -18432,7 +18432,7 @@
     },
     "prices": {
       "withoutVat": 449900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 544379
     },
     "tags": []
@@ -18463,7 +18463,7 @@
     },
     "prices": {
       "withoutVat": 449900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 544379
     },
     "tags": []
@@ -18486,7 +18486,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": [
@@ -18519,7 +18519,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -18542,7 +18542,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": [
@@ -18575,7 +18575,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -18606,7 +18606,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": []
@@ -18637,7 +18637,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": []
@@ -18668,7 +18668,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": []
@@ -18699,7 +18699,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": []
@@ -18722,7 +18722,7 @@
     },
     "prices": {
       "withoutVat": 139900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 169279
     },
     "tags": [
@@ -18747,7 +18747,7 @@
     },
     "prices": {
       "withoutVat": 139900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 169279
     },
     "tags": [
@@ -18780,7 +18780,7 @@
     },
     "prices": {
       "withoutVat": 899900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 1088879
     },
     "tags": []
@@ -18811,7 +18811,7 @@
     },
     "prices": {
       "withoutVat": 899900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 1088879
     },
     "tags": []
@@ -18834,7 +18834,7 @@
     },
     "prices": {
       "withoutVat": 949900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 1149379
     },
     "tags": [
@@ -18867,7 +18867,7 @@
     },
     "prices": {
       "withoutVat": 949900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 1149379
     },
     "tags": []
@@ -18898,7 +18898,7 @@
     },
     "prices": {
       "withoutVat": 999900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 1209879
     },
     "tags": []
@@ -18929,7 +18929,7 @@
     },
     "prices": {
       "withoutVat": 999900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 1209879
     },
     "tags": []
@@ -18960,7 +18960,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -18991,7 +18991,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -19022,7 +19022,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -19045,7 +19045,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": [
@@ -19099,7 +19099,7 @@
     },
     "prices": {
       "withoutVat": 339900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 411279
     },
     "tags": []
@@ -19151,7 +19151,7 @@
     },
     "prices": {
       "withoutVat": 339900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 411279
     },
     "tags": []
@@ -19203,7 +19203,7 @@
     },
     "prices": {
       "withoutVat": 49900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 60379
     },
     "tags": []
@@ -19255,7 +19255,7 @@
     },
     "prices": {
       "withoutVat": 49900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 60379
     },
     "tags": []
@@ -19307,7 +19307,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -19359,7 +19359,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -19382,7 +19382,7 @@
     },
     "prices": {
       "withoutVat": 189900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 229779
     },
     "tags": [
@@ -19407,7 +19407,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": [
@@ -19432,7 +19432,7 @@
     },
     "prices": {
       "withoutVat": 199900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 241879
     },
     "tags": [
@@ -19457,7 +19457,7 @@
     },
     "prices": {
       "withoutVat": 199900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 241879
     },
     "tags": [
@@ -19518,7 +19518,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": []
@@ -19577,7 +19577,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": []
@@ -19600,7 +19600,7 @@
     },
     "prices": {
       "withoutVat": 179900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 217679
     },
     "tags": [
@@ -19625,7 +19625,7 @@
     },
     "prices": {
       "withoutVat": 179900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 217679
     },
     "tags": [
@@ -19650,7 +19650,7 @@
     },
     "prices": {
       "withoutVat": 179900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 217679
     },
     "tags": [
@@ -19675,7 +19675,7 @@
     },
     "prices": {
       "withoutVat": 139900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 169279
     },
     "tags": [
@@ -19700,7 +19700,7 @@
     },
     "prices": {
       "withoutVat": 139900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 169279
     },
     "tags": [
@@ -19754,7 +19754,7 @@
     },
     "prices": {
       "withoutVat": 209900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 253979
     },
     "tags": []
@@ -19806,7 +19806,7 @@
     },
     "prices": {
       "withoutVat": 209900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 253979
     },
     "tags": []
@@ -19858,7 +19858,7 @@
     },
     "prices": {
       "withoutVat": 209900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 253979
     },
     "tags": []
@@ -19910,7 +19910,7 @@
     },
     "prices": {
       "withoutVat": 209900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 253979
     },
     "tags": []
@@ -19976,7 +19976,7 @@
     },
     "prices": {
       "withoutVat": 219900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 266079
     },
     "tags": []
@@ -20063,7 +20063,7 @@
     },
     "prices": {
       "withoutVat": 219900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 266079
     },
     "tags": []
@@ -20150,7 +20150,7 @@
     },
     "prices": {
       "withoutVat": 219900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 266079
     },
     "tags": []
@@ -20237,7 +20237,7 @@
     },
     "prices": {
       "withoutVat": 279900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 338679
     },
     "tags": []
@@ -20324,7 +20324,7 @@
     },
     "prices": {
       "withoutVat": 279900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 338679
     },
     "tags": []
@@ -20383,7 +20383,7 @@
     },
     "prices": {
       "withoutVat": 199900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 241879
     },
     "tags": []
@@ -20442,7 +20442,7 @@
     },
     "prices": {
       "withoutVat": 199900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 241879
     },
     "tags": []
@@ -20515,7 +20515,7 @@
     },
     "prices": {
       "withoutVat": 219900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 266079
     },
     "tags": []
@@ -20574,7 +20574,7 @@
     },
     "prices": {
       "withoutVat": 219900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 266079
     },
     "tags": []
@@ -20633,7 +20633,7 @@
     },
     "prices": {
       "withoutVat": 239900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 290279
     },
     "tags": []
@@ -20692,7 +20692,7 @@
     },
     "prices": {
       "withoutVat": 239900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 290279
     },
     "tags": []
@@ -20751,7 +20751,7 @@
     },
     "prices": {
       "withoutVat": 239900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 290279
     },
     "tags": []
@@ -20810,7 +20810,7 @@
     },
     "prices": {
       "withoutVat": 239900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 290279
     },
     "tags": []
@@ -20833,7 +20833,7 @@
     },
     "prices": {
       "withoutVat": 199900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 241879
     },
     "tags": [
@@ -20858,7 +20858,7 @@
     },
     "prices": {
       "withoutVat": 139900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 169279
     },
     "tags": [
@@ -20883,7 +20883,7 @@
     },
     "prices": {
       "withoutVat": 139900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 169279
     },
     "tags": [
@@ -20908,7 +20908,7 @@
     },
     "prices": {
       "withoutVat": 139900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 169279
     },
     "tags": [
@@ -20933,7 +20933,7 @@
     },
     "prices": {
       "withoutVat": 139900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 169279
     },
     "tags": [
@@ -20958,7 +20958,7 @@
     },
     "prices": {
       "withoutVat": 139900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 169279
     },
     "tags": [
@@ -20983,7 +20983,7 @@
     },
     "prices": {
       "withoutVat": 169900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 205579
     },
     "tags": [
@@ -21008,7 +21008,7 @@
     },
     "prices": {
       "withoutVat": 169900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 205579
     },
     "tags": [
@@ -21076,7 +21076,7 @@
     },
     "prices": {
       "withoutVat": 239900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 290279
     },
     "tags": []
@@ -21142,7 +21142,7 @@
     },
     "prices": {
       "withoutVat": 239900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 290279
     },
     "tags": []
@@ -21194,7 +21194,7 @@
     },
     "prices": {
       "withoutVat": 199900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 241879
     },
     "tags": []
@@ -21246,7 +21246,7 @@
     },
     "prices": {
       "withoutVat": 199900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 241879
     },
     "tags": []
@@ -21305,7 +21305,7 @@
     },
     "prices": {
       "withoutVat": 154900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 187429
     },
     "tags": []
@@ -21364,7 +21364,7 @@
     },
     "prices": {
       "withoutVat": 154900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 187429
     },
     "tags": []
@@ -21416,7 +21416,7 @@
     },
     "prices": {
       "withoutVat": 179900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 217679
     },
     "tags": []
@@ -21468,7 +21468,7 @@
     },
     "prices": {
       "withoutVat": 179900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 217679
     },
     "tags": []
@@ -21527,7 +21527,7 @@
     },
     "prices": {
       "withoutVat": 144900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 175329
     },
     "tags": []
@@ -21586,7 +21586,7 @@
     },
     "prices": {
       "withoutVat": 144900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 175329
     },
     "tags": []
@@ -21652,7 +21652,7 @@
     },
     "prices": {
       "withoutVat": 189900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 229779
     },
     "tags": []
@@ -21739,7 +21739,7 @@
     },
     "prices": {
       "withoutVat": 189900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 229779
     },
     "tags": []
@@ -21762,7 +21762,7 @@
     },
     "prices": {
       "withoutVat": 159900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 193479
     },
     "tags": [
@@ -21787,7 +21787,7 @@
     },
     "prices": {
       "withoutVat": 159900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 193479
     },
     "tags": [
@@ -21812,7 +21812,7 @@
     },
     "prices": {
       "withoutVat": 159900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 193479
     },
     "tags": [
@@ -21845,7 +21845,7 @@
     },
     "prices": {
       "withoutVat": 129900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 157179
     },
     "tags": [
@@ -21870,7 +21870,7 @@
     },
     "prices": {
       "withoutVat": 129900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 157179
     },
     "tags": [
@@ -21895,7 +21895,7 @@
     },
     "prices": {
       "withoutVat": 129900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 157179
     },
     "tags": [
@@ -21956,7 +21956,7 @@
     },
     "prices": {
       "withoutVat": 169900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 205579
     },
     "tags": []
@@ -22022,7 +22022,7 @@
     },
     "prices": {
       "withoutVat": 169900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 205579
     },
     "tags": []
@@ -22081,7 +22081,7 @@
     },
     "prices": {
       "withoutVat": 149900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 181379
     },
     "tags": []
@@ -22140,7 +22140,7 @@
     },
     "prices": {
       "withoutVat": 149900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 181379
     },
     "tags": []
@@ -22163,7 +22163,7 @@
     },
     "prices": {
       "withoutVat": 119900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 145079
     },
     "tags": [
@@ -22188,7 +22188,7 @@
     },
     "prices": {
       "withoutVat": 119900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 145079
     },
     "tags": [
@@ -22213,7 +22213,7 @@
     },
     "prices": {
       "withoutVat": 59900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 72479
     },
     "tags": [
@@ -22246,7 +22246,7 @@
     },
     "prices": {
       "withoutVat": 59900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 72479
     },
     "tags": []
@@ -22277,7 +22277,7 @@
     },
     "prices": {
       "withoutVat": 69900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 84579
     },
     "tags": []
@@ -22308,7 +22308,7 @@
     },
     "prices": {
       "withoutVat": 69900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 84579
     },
     "tags": []
@@ -22339,7 +22339,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": []
@@ -22370,7 +22370,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": []
@@ -22401,7 +22401,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": []
@@ -22432,7 +22432,7 @@
     },
     "prices": {
       "withoutVat": 109900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 132979
     },
     "tags": []
@@ -22498,7 +22498,7 @@
     },
     "prices": {
       "withoutVat": 109900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 132979
     },
     "tags": []
@@ -22564,7 +22564,7 @@
     },
     "prices": {
       "withoutVat": 109900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 132979
     },
     "tags": []
@@ -22587,7 +22587,7 @@
     },
     "prices": {
       "withoutVat": 69900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 84579
     },
     "tags": [
@@ -22612,7 +22612,7 @@
     },
     "prices": {
       "withoutVat": 69900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 84579
     },
     "tags": [
@@ -22673,7 +22673,7 @@
     },
     "prices": {
       "withoutVat": 59900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 72479
     },
     "tags": []
@@ -22732,7 +22732,7 @@
     },
     "prices": {
       "withoutVat": 59900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 72479
     },
     "tags": []
@@ -22791,7 +22791,7 @@
     },
     "prices": {
       "withoutVat": 49900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 60379
     },
     "tags": []
@@ -22850,7 +22850,7 @@
     },
     "prices": {
       "withoutVat": 49900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 60379
     },
     "tags": []
@@ -22916,7 +22916,7 @@
     },
     "prices": {
       "withoutVat": 49900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 60379
     },
     "tags": []
@@ -22982,7 +22982,7 @@
     },
     "prices": {
       "withoutVat": 69900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 84579
     },
     "tags": []
@@ -23048,7 +23048,7 @@
     },
     "prices": {
       "withoutVat": 69900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 84579
     },
     "tags": []
@@ -23114,7 +23114,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -23180,7 +23180,7 @@
     },
     "prices": {
       "withoutVat": 99900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 120879
     },
     "tags": []
@@ -23246,7 +23246,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -23312,7 +23312,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -23378,7 +23378,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -23444,7 +23444,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -23503,7 +23503,7 @@
     },
     "prices": {
       "withoutVat": 69900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 84579
     },
     "tags": []
@@ -23555,7 +23555,7 @@
     },
     "prices": {
       "withoutVat": 69900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 84579
     },
     "tags": []
@@ -23614,7 +23614,7 @@
     },
     "prices": {
       "withoutVat": 69900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 84579
     },
     "tags": []
@@ -23673,7 +23673,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -23732,7 +23732,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -23791,7 +23791,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -23814,7 +23814,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": [
@@ -23875,7 +23875,7 @@
     },
     "prices": {
       "withoutVat": 139900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 169279
     },
     "tags": []
@@ -23913,7 +23913,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -23951,7 +23951,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -23982,7 +23982,7 @@
     },
     "prices": {
       "withoutVat": 64900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 78529
     },
     "tags": []
@@ -24013,7 +24013,7 @@
     },
     "prices": {
       "withoutVat": 64900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 78529
     },
     "tags": []
@@ -24044,7 +24044,7 @@
     },
     "prices": {
       "withoutVat": 64900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 78529
     },
     "tags": []
@@ -24067,7 +24067,7 @@
     },
     "prices": {
       "withoutVat": 64900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 78529
     },
     "tags": [
@@ -24092,7 +24092,7 @@
     },
     "prices": {
       "withoutVat": 64900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 78529
     },
     "tags": [
@@ -24139,7 +24139,7 @@
     },
     "prices": {
       "withoutVat": 59900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 72479
     },
     "tags": []
@@ -24184,7 +24184,7 @@
     },
     "prices": {
       "withoutVat": 59900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 72479
     },
     "tags": []
@@ -24229,7 +24229,7 @@
     },
     "prices": {
       "withoutVat": 69900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 84579
     },
     "tags": []
@@ -24274,7 +24274,7 @@
     },
     "prices": {
       "withoutVat": 69900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 84579
     },
     "tags": []
@@ -24333,7 +24333,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -24392,7 +24392,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -24451,7 +24451,7 @@
     },
     "prices": {
       "withoutVat": 129900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 157179
     },
     "tags": []
@@ -24510,7 +24510,7 @@
     },
     "prices": {
       "withoutVat": 129900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 157179
     },
     "tags": []
@@ -24569,7 +24569,7 @@
     },
     "prices": {
       "withoutVat": 129900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 157179
     },
     "tags": []
@@ -24621,7 +24621,7 @@
     },
     "prices": {
       "withoutVat": 129900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 157179
     },
     "tags": []
@@ -24644,7 +24644,7 @@
     },
     "prices": {
       "withoutVat": 94900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 114829
     },
     "tags": [
@@ -24669,7 +24669,7 @@
     },
     "prices": {
       "withoutVat": 94900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 114829
     },
     "tags": [
@@ -24730,7 +24730,7 @@
     },
     "prices": {
       "withoutVat": 109900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 132979
     },
     "tags": []
@@ -24782,7 +24782,7 @@
     },
     "prices": {
       "withoutVat": 109900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 132979
     },
     "tags": []
@@ -24841,7 +24841,7 @@
     },
     "prices": {
       "withoutVat": 199900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 241879
     },
     "tags": []
@@ -24900,7 +24900,7 @@
     },
     "prices": {
       "withoutVat": 199900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 241879
     },
     "tags": []
@@ -24923,7 +24923,7 @@
     },
     "prices": {
       "withoutVat": 229900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 278179
     },
     "tags": [
@@ -24948,7 +24948,7 @@
     },
     "prices": {
       "withoutVat": 229900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 278179
     },
     "tags": [
@@ -24973,7 +24973,7 @@
     },
     "prices": {
       "withoutVat": 229900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 278179
     },
     "tags": [
@@ -24998,7 +24998,7 @@
     },
     "prices": {
       "withoutVat": 229900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 278179
     },
     "tags": [
@@ -25052,7 +25052,7 @@
     },
     "prices": {
       "withoutVat": 79900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 96679
     },
     "tags": []
@@ -25139,7 +25139,7 @@
     },
     "prices": {
       "withoutVat": 279900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 338679
     },
     "tags": []
@@ -25226,7 +25226,7 @@
     },
     "prices": {
       "withoutVat": 279900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 338679
     },
     "tags": []
@@ -25313,7 +25313,7 @@
     },
     "prices": {
       "withoutVat": 229900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 278179
     },
     "tags": []
@@ -25400,7 +25400,7 @@
     },
     "prices": {
       "withoutVat": 229900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 278179
     },
     "tags": []
@@ -25459,7 +25459,7 @@
     },
     "prices": {
       "withoutVat": 229900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 278179
     },
     "tags": []
@@ -25511,7 +25511,7 @@
     },
     "prices": {
       "withoutVat": 229900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 278179
     },
     "tags": []
@@ -25534,7 +25534,7 @@
     },
     "prices": {
       "withoutVat": 289900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 350779
     },
     "tags": []
@@ -25557,7 +25557,7 @@
     },
     "prices": {
       "withoutVat": 299900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 362879
     },
     "tags": []
@@ -25637,7 +25637,7 @@
     },
     "prices": {
       "withoutVat": 274900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 332629
     },
     "tags": []
@@ -25724,7 +25724,7 @@
     },
     "prices": {
       "withoutVat": 274900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 332629
     },
     "tags": []
@@ -25804,7 +25804,7 @@
     },
     "prices": {
       "withoutVat": 239900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 290279
     },
     "tags": []
@@ -25891,7 +25891,7 @@
     },
     "prices": {
       "withoutVat": 239900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 290279
     },
     "tags": []
@@ -25971,7 +25971,7 @@
     },
     "prices": {
       "withoutVat": 189900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 229779
     },
     "tags": []
@@ -26058,7 +26058,7 @@
     },
     "prices": {
       "withoutVat": 189900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 229779
     },
     "tags": []
@@ -26117,7 +26117,7 @@
     },
     "prices": {
       "withoutVat": 419900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 508079
     },
     "tags": []
@@ -26176,7 +26176,7 @@
     },
     "prices": {
       "withoutVat": 419900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 508079
     },
     "tags": []
@@ -26228,7 +26228,7 @@
     },
     "prices": {
       "withoutVat": 349900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 423379
     },
     "tags": []
@@ -26280,7 +26280,7 @@
     },
     "prices": {
       "withoutVat": 349900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 423379
     },
     "tags": []
@@ -26332,7 +26332,7 @@
     },
     "prices": {
       "withoutVat": 349900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 423379
     },
     "tags": []
@@ -26391,7 +26391,7 @@
     },
     "prices": {
       "withoutVat": 349900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 423379
     },
     "tags": []
@@ -26450,7 +26450,7 @@
     },
     "prices": {
       "withoutVat": 499900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 604879
     },
     "tags": []
@@ -26502,7 +26502,7 @@
     },
     "prices": {
       "withoutVat": 499900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 604879
     },
     "tags": []
@@ -26561,7 +26561,7 @@
     },
     "prices": {
       "withoutVat": 499900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 604879
     },
     "tags": []
@@ -26620,7 +26620,7 @@
     },
     "prices": {
       "withoutVat": 599900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 725879
     },
     "tags": []
@@ -26672,7 +26672,7 @@
     },
     "prices": {
       "withoutVat": 599900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 725879
     },
     "tags": []
@@ -26731,7 +26731,7 @@
     },
     "prices": {
       "withoutVat": 709900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 858979
     },
     "tags": []
@@ -26783,7 +26783,7 @@
     },
     "prices": {
       "withoutVat": 499900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 604879
     },
     "tags": []
@@ -26842,7 +26842,7 @@
     },
     "prices": {
       "withoutVat": 499900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 604879
     },
     "tags": []
@@ -26901,7 +26901,7 @@
     },
     "prices": {
       "withoutVat": 389900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 471779
     },
     "tags": []
@@ -26953,7 +26953,7 @@
     },
     "prices": {
       "withoutVat": 389900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 471779
     },
     "tags": []
@@ -27005,7 +27005,7 @@
     },
     "prices": {
       "withoutVat": 389900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 471779
     },
     "tags": []
@@ -27064,7 +27064,7 @@
     },
     "prices": {
       "withoutVat": 389900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 471779
     },
     "tags": []
@@ -27087,7 +27087,7 @@
     },
     "prices": {
       "withoutVat": 389900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 471779
     },
     "tags": [
@@ -27148,7 +27148,7 @@
     },
     "prices": {
       "withoutVat": 389900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 471779
     },
     "tags": []
@@ -27200,7 +27200,7 @@
     },
     "prices": {
       "withoutVat": 399900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 483879
     },
     "tags": []
@@ -27252,7 +27252,7 @@
     },
     "prices": {
       "withoutVat": 399900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 483879
     },
     "tags": []
@@ -27311,7 +27311,7 @@
     },
     "prices": {
       "withoutVat": 419900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 508079
     },
     "tags": []
@@ -27370,7 +27370,7 @@
     },
     "prices": {
       "withoutVat": 419900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 508079
     },
     "tags": []
@@ -27422,7 +27422,7 @@
     },
     "prices": {
       "withoutVat": 999900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 1209879
     },
     "tags": []
@@ -27474,7 +27474,7 @@
     },
     "prices": {
       "withoutVat": 999900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 1209879
     },
     "tags": []
@@ -27526,7 +27526,7 @@
     },
     "prices": {
       "withoutVat": 999000,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 1208790
     },
     "tags": []
@@ -27578,7 +27578,7 @@
     },
     "prices": {
       "withoutVat": 349900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 423379
     },
     "tags": []
@@ -27630,7 +27630,7 @@
     },
     "prices": {
       "withoutVat": 349900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 423379
     },
     "tags": []
@@ -27689,7 +27689,7 @@
     },
     "prices": {
       "withoutVat": 349900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 423379
     },
     "tags": []
@@ -27748,7 +27748,7 @@
     },
     "prices": {
       "withoutVat": 349900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 423379
     },
     "tags": []
@@ -27807,7 +27807,7 @@
     },
     "prices": {
       "withoutVat": 199900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 241879
     },
     "tags": []
@@ -27866,7 +27866,7 @@
     },
     "prices": {
       "withoutVat": 199900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 241879
     },
     "tags": []
@@ -27925,7 +27925,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -27977,7 +27977,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -28036,7 +28036,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -28095,7 +28095,7 @@
     },
     "prices": {
       "withoutVat": 249900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 302379
     },
     "tags": []
@@ -28118,7 +28118,7 @@
     },
     "prices": {
       "withoutVat": 269900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 326579
     },
     "tags": [
@@ -28143,7 +28143,7 @@
     },
     "prices": {
       "withoutVat": 159900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 193479
     },
     "tags": [
@@ -28168,7 +28168,7 @@
     },
     "prices": {
       "withoutVat": 159900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 193479
     },
     "tags": [
@@ -28222,7 +28222,7 @@
     },
     "prices": {
       "withoutVat": 499900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 604879
     },
     "tags": []
@@ -28274,7 +28274,7 @@
     },
     "prices": {
       "withoutVat": 449900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 544379
     },
     "tags": []
@@ -28326,7 +28326,7 @@
     },
     "prices": {
       "withoutVat": 179900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 217679
     },
     "tags": []
@@ -28385,7 +28385,7 @@
     },
     "prices": {
       "withoutVat": 219900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 266079
     },
     "tags": []
@@ -28451,7 +28451,7 @@
     },
     "prices": {
       "withoutVat": 244900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 296329
     },
     "tags": []
@@ -28503,7 +28503,7 @@
     },
     "prices": {
       "withoutVat": 139900,
-      "vatPercent": 21.0,
+      "vatPercent": 21,
       "withVat": 169279
     },
     "tags": []
